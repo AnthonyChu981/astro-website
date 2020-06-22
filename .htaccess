@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !on
+RewriteCond %{SERVER_NAME} =astro.su.ust.hk
+RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]

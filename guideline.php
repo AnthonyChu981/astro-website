@@ -305,7 +305,7 @@
 								如果由科大落去<font color="red">彩虹</font> / <font color="red">牛頭角</font> / <font color="red">鑽石山</font>都會喺南閘上車 <br>
 								由牛頭角 / 寶琳 / 清水灣 / 坑口上車上黎科大就會喺呢度落車
 								</p>
-								<img src="images/guideline/IMG_4176.jpg" alt=""/>
+								<img src="images/guideline/IMG_4011.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h3>科大北閘 </h3>
@@ -313,7 +313,7 @@
 								如果由科大落去<font color="red">坑口</font> / <font color="red">寶琳</font> / <font color="red">將軍澳</font> / <font color="red">西貢</font>會喺北閘上車  <br>
 								除左104小巴 / 91M / 91巴士 (開往鑽石山站) / 11S小巴外，所有巴士同小巴都會喺呢度落車
 								</p> 
-								<img src="images/guideline/IMG_4484.jpg" alt=""/>
+								<img src="images/guideline/IMG_3918.jpg" alt=""/>
 								<div class="space"></div>
 
 							</div>
@@ -335,7 +335,7 @@
 								南北小廚係科大唯一嘅酒樓， 由美心集團經營， 提供各式點心。 味道唔錯， 對比起其他canteen 雖然略貴， 個人經驗一餐大約$50 到 $60 ， 但都係平過喺出面飲茶，適合一大班人REU。<br>
 								星期一至六開放時間為11:00－22:00 。而星期日及公眾假期為10:00－22:00。
 								</p>
-								<img src="images/guideline/IMG_4179.jpg" alt=""/>
+								<img src="images/guideline/IMG_3954.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h3>LG1 Canteen </h3>
@@ -343,7 +343,7 @@
 								位於LG1，都係由美心集團經營， 價錢都算平，比LG7 貴少少啦， 比較受歡迎嘅係燒味飯同早餐。 地方好大， 今年翻新完有好多好野食啊！<br>
 								開放時間為07:30－21:00。
 								</p>
-								<img src="images/guideline/IMG_4211.jpg" alt=""/>
+								<img src="images/guideline/IMG_4077.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h3>LG5 McDonald’s </h3>
@@ -351,14 +351,17 @@
 								M記，你懂的。科大係唯一 一間有M記嘅大學， 同出面唔同嘅係呢度大部份正價套餐都有<font color="red">9 折</font>。<br>
 								開放時間為07:00－ 24:00。
 								</p> 
-								<img src="images/guideline/IMG_4224.jpg" alt=""/>
+								<img src="images/guideline/IMG_4084.jpg" alt=""/>
 								<div class="space"></div>
 								
-								<h3>LG7 Canteen (維修中)</h3>
+								<h3>LG7 Canteen </h3>
 								<p align="justify">
 								
-								LG7係科大最大嘅canteen。現正重新裝修，將於9月重開。
+								LG7係科大最大嘅canteen。有AsiaPacific Catering (大家樂)、金飯碗 (金兜)同埋TT Veggies三間食肆俾大家選擇，大家樂同金兜嘅開放時間為07:30－21:00，
+								而TT Veggies就係最近新開嘅齋堂，開放時間為11:00－21:00。想食齋嘅同學可以去試下，都唔錯架。
 								</p>
+								<img src="images/guideline/IMG_4070.jpg" alt=""/>
+								<div class="space"></div>
 								<!--<img src="images/guideline/LG7.JPG" alt=""/>
 								<div class="space"></div>
 								
@@ -384,7 +387,7 @@
 								<p align="justify">
 								喺鄭裕彤大樓地下嘅Subway ， 平時同學仔唔太肚餓， 又或者啱啱做完運動都會黎呢度買包包. . . 食。 佢仲有<font color="red">每日一款$24</font> 嘅包架～ 夠曬抵呀！ 不過啲員工唔係好識中文， 要用英文點餐佢地先明。 以小編經驗， 其實大家都係指番要乜要物， 同啲佢地講： 「This， this， this」 啫XD
 								</p> 
-							    <img src="images/guideline/IMG_4455.jpg" alt=""/>
+							    <img src="images/guideline/IMG_3990.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h3>LSK Canteen </h3>
@@ -393,28 +396,28 @@
 								位於李兆基大樓內， 類似LG1 Canteen， 有售咖啡、 三文治、 各式快餐同燒味， 但味道一般， 而且LSK 離其他main buildings 都比較遠， 因而主要顧客都係喺LSK 上堂嘅商學院學生， 不過呢度比較新同埋周圍景觀唔錯， 都吸引到一大班fans 係度食。<br>
 								開放時間為星期一至五07:30－21:00。(翻新中)
 								</p>
-								<img src="images/guideline/LSK_Canteen.jpeg" alt=""/>
+								<img src="images/guideline/IMG_4008.jpeg" alt=""/>
 								<div class="space"></div>
 								
 								<h3>Ebeneezer's   (清真) </h3>
 								<p align="justify">
 								一間位於李兆基大樓嘅中東式餐廳， 另設鋪位於LTA 對面露天位置， 食物無論肉質到配料都有正宗中東式嘅味道， 絕對不妨一試。 餐廳主打土耳其卡巴、 印度咖哩同薄餅。 店內不設坐位， 買完可以去隔黎LSK Canteen享用。 另外由於店員都係外國人， 你可能需要同佢地講英文。
 								</p>
-								<img src="images/guideline/IMG_4446.jpg" alt=""/>
+								<img src="images/guideline/IMG_4004.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h3>Seafront Canteen </h3>
 								<p align="justify">
 								科大人都會叫佢Seafront。 由於科大嘅宿舍同Atrium、 北閘及南閘都相距甚遠， 位於本科生宿舍六座(UG Hall VI) 樓下嘅Canteen 就成了一眾科大hall 友嘅落腳點。 Seafront 有兩個賣點， 第一個係平， 除咗碟頭飯同車仔麵， 最好味同抵食就係呢度嘅多士同糖水， 只係$7！ 第二個賣點係宵夜， 平日由晚上六點開放到凌晨兩點，全科大12點後就只有Seafront 有野食，夜晚肚餓就一定會去呢度！
 								</p> 
-								<img src="images/guideline/IMG_4272.jpg" alt=""/>
+								<img src="images/guideline/IMG_4034.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h3>Starbucks </h3>
 								<p align="justify">
 								位於Atrium 嘅商務書店隔黎， 由北閘行到去火雞左手邊一眼望到。 呢度賣嘅野同出面嘅Starbucks 無咩唔同， 但你會成日都見到Starbucks 門口排曬長龍， 點解？ 因為出示科大學生證買野飲野食有<font color="red">7 折</font>優惠， 抵到爛呀！ 尤其是上朝早堂之前買番杯咖啡就最啱喇～
 								</p> 
-								<img src="images/guideline/IMG_4305.jpg" alt=""/>
+								<img src="images/guideline/IMG_3883.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<!--<h3>UC Bistro </h3>
@@ -447,11 +450,11 @@
 								<hr>
 								科大熱門景點， 唔識真係唔好同人講你讀緊科大呀～ (講笑啫講笑啫)<br>
 								
-								<h4>火雞 </h4>
+								<h4>火雞 (維護中)</h4>
 								<p align="justify">
 								科大最有代表性嘅地標， 因為個樣似火雞所以有個咁嘅名， 事實上佢係一個真係用得嘅日晷黎嘅， 不過有無人真係用黎睇時間呢. . .  見仁見智啦！ 小編就會選擇睇鐘喇～
 								</p> 
-								<img src="images/guideline/IMG_4380.jpg" alt=""/>
+								<img src="images/guideline/IMG_3936.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>Atrium </h4>
@@ -470,14 +473,14 @@
 								<p align="justify">
 								路中間一舊四四方方嘅野， 有時上面會有hall 嘅大dec 。 傳說如果你可以一野跳過左佢， 就可以過3 爆4 ； 但踩到佢就會爛GPA 。 信不信由你， 反正我信了。 不過安全至上， 大家量力而為啦～
 								</p>
-								<img src="images/guideline/IMG_4231.jpg" alt=""/>
+								<img src="images/guideline/IMG_4028.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>偷情小徑 </h4>
 								<p align="justify">
 								呢條偷情小徑係行去Uni-Bar 同LSK 嘅一條捷徑，據聞以前好多人係呢度偷情，貪佢左右有樹夠隱蔽喎～ 不過小編我呢. . . 咪傻啦，咁多蚊我先唔會喺度偷情呀！ 
 								</p>
-								<img src="images/guideline/IMG_4240.jpg" alt=""/>
+								<img src="images/guideline/IMG_4020.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>天一泉 </h4>
@@ -485,21 +488,21 @@
 								佢實際上係一個噴水池，位於LG7 Canteen 出面，平時係睇心情噴水嘅，所以無人可以預測佢幾時噴水。<br>
 								呢度最多嘅就係鬼故，想聽最詳細最真實感受嘅鬼故？ 咁就事不疑遲，黎報我地嘅O’ camp啦！
 								</p> 
-								<img src="images/guideline/IMG_4253.jpg" alt=""/>
+								<img src="images/guideline/IMG_4065.jpg" alt=""/>
 								<div class="space"></div>
 	
 								<h4>蚊池 </h4>
 								<p align="justify">
 								Hall 6 對出有一個好大嘅水池，唔好以為跳左落去上番黎就叫出左pool 先得架. . .  不過可以肯定嘅係啲水都真係幾污濁，多唔多蚊就見仁見智喇。
 								</p> 
-								<img src="images/guideline/IMG_4280.jpg" alt=""/>
+								<img src="images/guideline/IMG_4035.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>蘑菇 </h4>
 								蘑菇？ 食得架？ 科大嘅蘑菇由Atrium 望埋去真係似蘑菇架，只不過佢唔食得啫！ 其實佢係一個觀景台黎嘅，呢度望出去仲可以飽覽成個牛尾海添！ 喺拉把溫書溫到攰出黎抖下又得，夜晚黎呢度賞下月亦得，得左～ (科大用語“跳蘑菇”就係指呢度)<br>
 								我地科大天文有陣時都會喺呢度開鏡睇星。
 								</p>
-								<img src="images/guideline/IMG_4185.jpg" alt=""/>
+								<img src="images/guideline/IMG_3948.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h3>其他主要設施</h3>
@@ -508,13 +511,13 @@
 								<h4>圖書館 (拉把)</h4>
 								<p align="justify">
 								科大人又稱拉把，成日聽到人講「摺拉」就即係去圖書館自摺喇。拉把總共有五層，平時等轉堂入去涼下冷氣都咪話唔爽呀！</p>
-								<img src="images/guideline/IMG_4194.jpg" alt=""/>
+								<img src="images/guideline/IMG_3947.jpg" alt=""/>
 								<div class="space"></div>
 								<p align="justify">
 								而Learning Commons 就喺拉把嘅LG1 ，入面有好多房仔 (LC)，可以容納7 至10 人； 開會、 做功課、 溫書團、 做project 一流！不過要注意返LC 房好受歡迎，預先book 左就唔會搵唔到空嘅LC 房喇。 LC 呢一層係喺開學期間仲係<font color="red">24 小時開放</font>架！
 								</p> 
 								
-								<img src="images/guideline/IMG_4206.jpg" alt=""/>
+								<img src="images/guideline/IMG_4074.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>Barn B </h4>
@@ -537,25 +540,25 @@
 								<p align="justify">
 								專係俾Busi 學生用嘅地方， 入面好新架， 仲有人話去廁所辦事一定要去呢度， 貪佢夠新夠乾淨喎 (失禮曬XD)！ 不過呢度距離Atrium 比較遠， 預番多少少時間行過去呀！
 								</p> 
-								<img src="images/guideline/LSK.jpeg" alt=""/>
+								<img src="images/guideline/IMG_3997.jpeg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>書店 (商務) </h4>
 								<p align="justify">
 								位於Atrium lift 3 隔黎， 想做文青？ 唔洗諗喇， 行入去啦！ 教科書都可以係度買架～
 								</p>
-								<img src="images/guideline/IMG_4311.jpg" alt=""/>
+								<img src="images/guideline/IMG_3886.jpg" alt=""/>
 								<div class="space"></div>
 	
 								<h4>銀行 (東亞，中銀，恆生) </h4>
 								<p align="justify">
 								位於Atrium life 2 嘅右手邊， 有成三間俾你揀， 以後急住用錢唔洗周圍問人借住先， 交學費都唔洗周圍撲啦！
 								</p>
-								<img src="images/guideline/IMG_4349.jpg" alt=""/>
+								<img src="images/guideline/IMG_3913.jpg" alt=""/>
 								<div class="space"></div>
-								<img src="images/guideline/IMG_4361.jpg" alt=""/>
+								<img src="images/guideline/IMG_3901.jpg" alt=""/>
 								<div class="space"></div>
-								<img src="images/guideline/IMG_4321.jpg" alt=""/>
+								<img src="images/guideline/IMG_3905.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>紀念品中心 </h4>
@@ -568,7 +571,7 @@
 								喺Sport Hall 對面嘅LG1 診所， 科大人皆曰： 「獸醫」， 平時同學仔唔舒服都可以黎呢度， 唔洗錢架！ 不過有無效就. . . 唔敢擔保喇～ <br>
 								入到去要俾你張學生證佢地登記先， 見完醫生要記得拎埋嗰張 「醫生紙」交去攞藥個櫃台度， 如果唔係就坐喺度白等架喇！
 								</p>
-								<img src="images/guideline/IMG_4326.jpg" alt=""/>
+								<img src="images/guideline/IMG_3879.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>牙科診所 </h4>
@@ -597,7 +600,7 @@
 								<p align="justify">
 								喺LG 7 canteen 隔黎， 日常用品都可以喺入面買到， 出示學生證仲係有<font color="red">95 折</font>架～
 								</p>
-								<img src="images/guideline/IMG_4268.jpg" alt=""/>
+								<img src="images/guideline/IMG_4066.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>音樂室 </h4>
@@ -617,7 +620,7 @@
 								<p align="justify">
 								Life 6 直落LG 1 就係S.H. Ho Sport Hall ， 平時呢度有人打籃球同羽毛球， 考試嗰陣作為考場<!--； 不過reg day 嗰日就會有好多soc 喺呢度擺counter 俾新同學仔報O’ Camp 架～ 你地到時記得入黎搵我地科大天文報名呀！-->
 								</p>
-								<img src="images/guideline/IMG_4338.jpg" alt=""/>
+								<img src="images/guideline/IMG_3870.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>Gym Room </h4>
@@ -640,7 +643,7 @@
 								<p align="justify">
 								呢個喺Hall 下面嘅足球場上幾年番新完， 係科大唯一 一個草地足球場黎架～ 不過普通人平時都幾難book 場吓。
 								</p>
-								<img src="images/guideline/IMG_4286.jpg" alt=""/>
+								<img src="images/guideline/IMG_4060.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>Seafront籃球場 </h4>
@@ -658,7 +661,7 @@
 								<p align="justify">
 								喺Hall 下面嘅泳池， 一個室外一個室內。 兩個泳池雖然好近， 但其實係分開架！
 								</p>
-								<img src="images/guideline/IMG_4298.jpg" alt=""/>
+								<img src="images/guideline/IMG_4038.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>南閘網球場 </h4>
@@ -678,14 +681,14 @@
 								<p align="justify">
 								喺concourse 中間嘅左手面， 係讀science 同學嘅聚腳點， 夏天有冷氣涼， 間唔中仲會有course 嘅tutor 喺度俾同學仔問問題。
 								</p> 
-								<img src="images/guideline/IMG_4473.jpg" alt=""/>
+								<img src="images/guideline/IMG_3965.jpg" alt=""/>
 								<div class="space"></div>
 								
 								<h4>E^2 I </h4>
 								<p align="justify">
 								喺concourse 二樓， 係engine 同學嘅聚腳點， 讀法係 ”E square I”。 做project? E^2 I啦！ 當然， 呢度都有學術意見啦～
 								</p>
-								<img src="images/guideline/IMG_4462.jpg" alt=""/>
+								<img src="images/guideline/IMG_3986.jpg" alt=""/>
 								<div class="space"></div>
 								
 							</div>

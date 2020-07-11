@@ -190,7 +190,7 @@
 							</div>
 							<div class="media-body">
 								<h4 class="media-heading">April, <?php echo date("Y"); ?></h4>
-								<p style="color:white">Member Gathering</p>
+								<p style="color:white">Member Gathering (Cancelled)</p>
 							</div>
 						</div>
 						
@@ -200,7 +200,7 @@
 							</div>
 							<div class="media-body">
 								<h4 class="media-heading">June, <?php echo date("Y"); ?></h4>
-								<p style="color:white">Sai Kung Overnight Stargazing Camp</p>
+								<p style="color:white">Lamma Island Overnight Stargazing Camp</p>
 							</div>
 						</div>
 						
@@ -210,7 +210,7 @@
 							</div>
 							<div class="media-body">
 								<h4 class="media-heading">August, <?php echo date("Y"); ?></h4>
-								<p style="color:white">Welcome Arrival</p>
+								<p style="color:white">Welcome Arrival (Cancel)</p>
 							</div>
 						</div>
 						
@@ -220,7 +220,7 @@
 							</div>
 							<div class="media-body">
 								<h4 class="media-heading">August, <?php echo date("Y"); ?></h4>
-								<p style="color:white">Astronomy Orientation Camp <?php echo date("Y"); ?></p>
+								<p style="color:white">Astronomy Orientation Camp (Cancel)<?php echo date("Y"); ?></p>
 							</div>
 						</div>
 						
@@ -268,6 +268,16 @@
 							<div class="media-body">
 								<h4 class="media-heading">November, <?php echo date("Y"); ?></h4>
 								<p style="color:white">Information Session</p>
+							</div>
+						</div>
+
+						<div class="media">
+							<div class="media-left">
+								<i class="fa fa-star" style="color:white"></i>
+							</div>
+							<div class="media-body">
+								<h4 class="media-heading">November, <?php echo date("Y"); ?></h4>
+								<p style="color:white">Gathering Stars</p>
 							</div>
 						</div>
 						

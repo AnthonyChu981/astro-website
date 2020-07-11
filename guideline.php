@@ -988,11 +988,10 @@
 								<a id="orientation" class="anchor"></a>
 								<h2>7.入學+迎新篇</h2>
 								<hr>
-								<p align="justify">今年嘅7 月17 號就係non- JUPAS 派位入學新生嘅 Registration day 喇； 而<font color="red">8 月 7號 同 8號</font>就係JUPAS 派位入學嘅新生嘅Registration day (Welcome Day) ， 到時科大都會有唔同嘅入學講座、 活動。 最最最重要嘅係， 可以報O’ Camp 呀！<br>
-								<h3 style="">預先通知大家啦， 我地科大天文嘅O’ Camp 期係<font color="red">8 月12 號到8 月14 號</font>呀！<br><br>
-								O’ Camp 嗰幾日撞正有<font color="red">英仙座流星雨</font>， 以科大天文嘅觀星儀器加上新界嘅好環境. . .  真係要講番句 「不用自備天文儀器， 不用具備天文知識， 緣份到了， 自會見到滿天星星」<br><br>
-								如果係對天文抱有熱誠嘅你； 又或者係純粹想喺科大清幽環境睇星嘅你； 仲有想喺O’ Camp 識番班好同伴嘅你， 就一定一定唔可以錯過呢個大好機會， 喺Welcome Day 嗰日黎我地Counter 報名啦！</h2>
-								<img src="images/guideline/Ocamp.jpg" alt=""/>
+								
+								<h3 style="">由於疫情關係，今年嘅o camp<font color="red">取消舉行</font>呀！<br>
+								</h2>
+								<!-- <img src="images/guideline/Ocamp.jpg" alt=""/> -->
 								<div class="space"></div>
 								</p>
 							</div>
